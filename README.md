@@ -10,6 +10,7 @@ Python kivy program for testing and other funs
  - <code>buildozer.spec</code> нужен будет в дальшейшем для компила в .APK под андроид ([СсыЛОчкаА в Сибирь](https://python-scripts.com/kivy-android-ios-exe))
  - лицензию сгенерил мне мой любимый github, а я просто выбрал самое знакомое название - MIT. На сколько я помню, это open source лицензия,
  - Полезный [УРЛык](https://en.support.wordpress.com/markdown-quick-reference/) по МаркДауну (.md),
+ - Еще полезный [УРЛык](https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/), но уже по гиту (шпора),
  - <code>requirements.txt</code> - полезная штука, можешь почитать на досуге. А если коротка, то там (о неожиданность) сохраняются все зависимости по проекту. Удобно осебенно при использовании виртуального окружения ^~^,
  - Про <code>virtualenv</code> тоже было бы не плохо почитасики смальца
  
