@@ -1,0 +1,8 @@
+kivy
+PyYAML==5.3
+requests==2.22.0
+virtualenv==16.7.9
+buildozer==1.0
+pexpect==4.8.0
+ptyprocess==0.6.0
+sh==1.12.14

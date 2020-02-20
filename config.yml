@@ -1,0 +1,13 @@
+info:
+    name: Toster
+    version: 0.0.1
+    tags:
+        - python3.7.4 (kivy)
+        - easy knowlage testing
+    devs:
+        - MiTo
+        - JuriLents
+    repo: https://github.com/jurilents/pykv-toster
+    license:
+        file: LICENSE
+        type: MIT
